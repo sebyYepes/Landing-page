@@ -52,10 +52,9 @@ li{
     color: #F9FaF8;
     border-radius: 20%;
     border:#3882F6;
-    width: 40px;
     margin: 5px;
     margin: 0 ;
-    padding:0;
+    padding: 10px;;
 }
 
 .image{
