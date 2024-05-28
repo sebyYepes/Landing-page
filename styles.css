@@ -92,14 +92,14 @@ li{
 
 }
 
-/* .squares li{
+.squares li{
     width: 200px;
     height: 200px;
     border: 2px solid #3882F6;
     border-radius: 10%;       
-} */
+}
 
-.section .captions{
+.captions li{
     width: 870px;
     color: #1f2937;
     
