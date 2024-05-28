@@ -41,7 +41,8 @@ li{
     margin: 8px;
     font-weight: normal;
     width: 400px;
-    margin-bottom: 5px;
+    margin: 0 ;
+    padding:0;
 }
 
 .title button{
@@ -50,4 +51,6 @@ li{
     border-radius: 10px;
     border: #3882F6;
     margin: 5px;
+    margin: 0 ;
+    padding:0;
 }
