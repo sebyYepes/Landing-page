@@ -85,6 +85,8 @@ li{
 .squares{
     display:flex;
     list-style-type: none;
+    justify-content: center;
+
 }
 
 .squares li{
