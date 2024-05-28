@@ -107,10 +107,15 @@ li{
 
 .section-two{
     background-color:#e5e7eb ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .quote{
     font-size: 36px;
     font-family: light italic;
     color:#1f2937;
+    width: 400px;
 }
