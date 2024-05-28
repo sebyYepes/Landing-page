@@ -60,6 +60,7 @@ li{
     background-color: gray;
     width: 450px;
     height: 200px;
+    display: flex;
 }
 
 .image placeholder{
