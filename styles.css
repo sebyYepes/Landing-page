@@ -25,9 +25,9 @@ li{
 
 .header-body{
     background-color: #1f2937;
-    padding-top: 30px;
+    padding-top: 50px;
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 
 .title{
@@ -50,7 +50,7 @@ li{
 .title button{
     background-color: #3882F6;
     color: #F9FaF8;
-    border-radius: 10px;
+    border-radius: 25px;
     border: #3882F6;
     margin: 5px;
     margin: 0 ;
