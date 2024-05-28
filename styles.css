@@ -61,6 +61,7 @@ li{
     width: 450px;
     height: 200px;
     display: flex;
+    align-items: center;
 }
 
 .image placeholder{
