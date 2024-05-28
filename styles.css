@@ -26,6 +26,7 @@ li{
 .header-body{
     background-color: #1f2937;
     padding-top: 30px;
+    display: flex;
 }
 
 .title{
