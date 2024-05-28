@@ -120,3 +120,8 @@ li{
     width: 800px;
     margin: 80px;
 }
+
+.by{
+    display: flex;
+    justify-content: flex-end;
+}
