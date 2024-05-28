@@ -115,7 +115,7 @@ li{
 
 .quote{
     font-size: 36px;
-    font-family: light italic;
+    font: light italic;
     color:#1f2937;
     width: 400px;
 }
