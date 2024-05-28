@@ -2,6 +2,7 @@
     background-color: #1f2937;
     font-size: 24px;
     color: #F9FaF8;
+    display: flex;
 }
 
 ul{
