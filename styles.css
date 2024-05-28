@@ -131,4 +131,5 @@ li{
 .section-three{
     background-color: #3882F6;
     margin: 100px;
+    display: flex;
 }
