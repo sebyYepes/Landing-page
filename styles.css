@@ -76,7 +76,6 @@ li{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: #1f2937;
 } 
 
 .info{
@@ -93,12 +92,12 @@ li{
 
 }
 
-.squares li{
+/* .squares li{
     width: 200px;
     height: 200px;
     border: 2px solid #3882F6;
     border-radius: 10%;       
-}
+} */
 
 .section .captions{
     width: 870px;
