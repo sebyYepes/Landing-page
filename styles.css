@@ -82,7 +82,13 @@ li{
     color: #1f2937;
 }
 
-li{
-    border: #3882F6;
-    
+.squares{
+    display:flex;
+    list-style-type: none;
+}
+
+.squares li{
+    width: 200px;
+    height: 200px;
+    border:#3882F6
 }
