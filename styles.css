@@ -41,3 +41,8 @@ li{
     font-weight: normal;
     width: 400px;
 }
+
+.title button{
+    background-color: #3882F6;
+    color: #F9FaF8;
+}
