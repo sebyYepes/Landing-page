@@ -99,7 +99,7 @@ li{
     border-radius: 10%;       
 }
 
-.captions{
-    width: 900px;
+.section .captions{
+    width: 850px;
     color: #1f2937;
 }
