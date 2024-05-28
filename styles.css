@@ -4,6 +4,7 @@
     color: #F9FaF8;
     display: flex;
     justify-content: space-around;
+    align-items: center;
 
 }
 
@@ -17,4 +18,5 @@ ul{
 li{
     font-size: 18px;
     color: #e5e7eb;
+    margin: 8px;
 }
