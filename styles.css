@@ -1,7 +1,8 @@
 .header{
     background-color: #1f2937;
     font-size: 24px;
-    color: #F9FaF8;
+    font-style: Hero;
+    font: #F9FaF8;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -15,7 +16,7 @@ ul{
     
 }
 
-.title p
+
 li{
     font-size: 18px;
     color: #e5e7eb;
@@ -30,4 +31,10 @@ li{
     font-size: 48px;
     font-weight: bold;
     color: #F9FaF8;
+}
+
+.title p {
+    font-size: 18px;
+    color: #e5e7eb;
+    margin: 8px;
 }
