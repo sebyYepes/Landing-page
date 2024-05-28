@@ -27,6 +27,7 @@ li{
     background-color: #1f2937;
     padding-top: 30px;
     display: flex;
+    justify-content: space-around;
 }
 
 .title{
@@ -67,5 +68,6 @@ li{
 
 .image placeholder{
     display: flex;
-    
+    color: #e5e7eb;
 }
+
