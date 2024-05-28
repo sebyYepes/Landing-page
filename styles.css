@@ -80,6 +80,8 @@ li{
     font-size: 36px;
     font-weight: bold;
     color: #1f2937;
+    justify-content: center;
+    margin: 50px;
 }
 
 .squares{
