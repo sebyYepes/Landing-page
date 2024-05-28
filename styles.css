@@ -1,3 +1,14 @@
 .header{
-    color:coral; 
+    background-color: #1f2937;
+    font-size: 24px;
+    color: #F9FaF8;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    font-size: 18px;
+    color: #e5e7eb;
 }
