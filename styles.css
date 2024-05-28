@@ -91,9 +91,9 @@ li{
 
 .squares li{
     width: 200px;
-    background-color: #3882F6;
     height: 200px;
-    border: 2px solid black;
+    border: 2px solid #3882F6;
+    border-radius: 10%;
     
     
 }
