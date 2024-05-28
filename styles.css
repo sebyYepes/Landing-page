@@ -127,3 +127,8 @@ li{
     font-weight: bold;
     font-size: 30px;
 }
+
+.bluebox{
+    background-color: #3882F6;
+    margin: 100px;
+}
