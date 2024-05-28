@@ -23,5 +23,11 @@ li{
 
 .header-body{
     background-color: #1f2937;
+}
+
+.title{
+    font-size: 48px;
+    font-weight: bold;
     color: #F9FaF8;
+
 }
