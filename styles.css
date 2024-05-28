@@ -139,4 +139,6 @@ li{
 .tit{
     color: #F9FaF8;
     font-size: 20px;
+    display: flex;
+    flex-direction: column;
 }
