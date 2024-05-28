@@ -62,7 +62,7 @@ li{
     height: 200px;
 }
 
-.image .placeholder{
+.image placeholder{
     display: flex;
     align-items: center;
     justify-content: center;
