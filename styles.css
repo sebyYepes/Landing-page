@@ -162,4 +162,8 @@ li{
 .footer{
     background-color: #1f2937;
     color:#F9FaF8; 
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
