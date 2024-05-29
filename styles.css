@@ -156,4 +156,10 @@ li{
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 10%;
+    font-weight: bold;
+}
+
+.footer{
+    background-color: #1f2937;
+    color:#F9FaF8; 
 }
